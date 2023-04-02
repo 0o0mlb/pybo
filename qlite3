@@ -1,0 +1,12 @@
+[1mdiff --git a/templates/base.html b/templates/base.html[m
+[1mindex b20cf29..5568081 100644[m
+[1m--- a/templates/base.html[m
+[1m+++ b/templates/base.html[m
+[36m@@ -1,6 +1,7 @@[m
+ {% load static %}[m
+ <!doctype html>[m
+ <html lang="ko">[m
+[32m+[m[32m<title>파이보</title>[m
+ <head>[m
+     <!-- Required meta tags -->[m
+     <meta charset="utf-8">[m
